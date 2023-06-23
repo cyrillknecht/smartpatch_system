@@ -5,10 +5,10 @@
 ## What is the SmartPatch System?
 The SmartPatch System includes a SmartPatch medical wearable device for acquiring vital sensor data
 and a supporting ecosystem consisting of a 
-[Basestation Software](https://gitlab.ethz.ch/pbl/hs2021/flagship-smart-patch-2021/base-station-v1) 
+Basestation Software
 designed to acquire the Sensor Data on a Basestation device (Raspberry Pi) and publishing it to a Thingsboard Server.
-Further, it includes a [Thingsboard](https://thingsboard.io/) server setup to display the acquired data and the 
-[SmartPatch Connector App](https://gitlab.ethz.ch/pbl/hs2021/flagship-smart-patch-2021/connector-app-v1) 
+Further, it includes a Thingsboard server setup to display the acquired data and the 
+SmartPatch Connector App
 available for iOS and Android, making it easy to connect SmartPatches and assign them to a patient.
 For more information on the SmartPatch System, please refer to my [bachelor thesis](assets/SmartPatch_System.pdf)
 or to the [final presentation](assets/SmartPatch_Final_Presentation.pdf) of our project group.
@@ -16,8 +16,8 @@ or to the [final presentation](assets/SmartPatch_Final_Presentation.pdf) of our 
 ## Contents of this repository
 
 This repository links the following parts of the SmartPatch System:
-- SmartPatch Base Station Software
-- SmartPatch Connector App
+- [SmartPatch Base Station Software](https://github.com/cyrillknecht/smartpatch_basestation_software)
+- [SmartPatch Connector App](https://github.com/cyrillknecht/smartpatch_connector_app)
 
 Both parts were mainly developed by me, and all parts developed by team members are marked as such in the respective files.
 
