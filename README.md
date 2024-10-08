@@ -3,6 +3,7 @@
 <img src="assets/figures/SmartPatch_System.png" alt="SmartPatch System" width="800">
 
 ## What is the SmartPatch System?
+
 The SmartPatch System includes a SmartPatch medical wearable device for acquiring vital sensor data
 and a supporting ecosystem consisting of a 
 Basestation Software
