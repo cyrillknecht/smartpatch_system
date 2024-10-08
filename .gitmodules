@@ -1,6 +1,6 @@
-[submodule "smartpatch_basestation_software"]
+[submodule "SmartPatch Basestation Software"]
 	path = smartpatch_basestation_software
 	url = https://github.com/cyrillknecht/smartpatch_basestation_software
-[submodule "smartpatch_connector_app"]
+[submodule "SmartPatch Connector Cross-Platform Mobile App"]
 	path = smartpatch_connector_app
 	url = https://github.com/cyrillknecht/smartpatch_connector_app
